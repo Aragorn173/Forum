@@ -1,3 +1,5 @@
+package Database;
+
 import javax.swing.*;
 
 public class View {
@@ -5,7 +7,6 @@ public class View {
     private JButton createNewPostButton;
     private JButton loginButton;
     private JList list1;
-
 
 }
 
