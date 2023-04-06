@@ -6,7 +6,12 @@ public class View {
     private JPanel panel1;
     private JButton createNewPostButton;
     private JButton loginButton;
-    private JList list1;
+    private JTextArea posts;
+
+
+
+
+
 
 }
 
